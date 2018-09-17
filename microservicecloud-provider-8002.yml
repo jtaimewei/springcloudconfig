@@ -15,5 +15,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8760/eureka/,http://localhost:8761/eureka/,http://localhost:8762/eureka/
   instance:
-    instance-id: microservicecloud-provider
+    instance-id: microservicecloud-provider-8002
     prefer-ip-address: true     #访问路径可以显示IP地址
